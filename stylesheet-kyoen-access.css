@@ -175,6 +175,16 @@
     padding-right:20px;
   }
 
+  footer{
+    display:flex;
+    flex-wrap: wrap;
+  }
+
+  .footer-company{
+    display:flex;
+    flex-wrap: wrap;
+  }
+
 
 
 
